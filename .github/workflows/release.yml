@@ -1,3 +1,5 @@
+name: Build and Release EPUB
+
 on:
   push:
     tags:
